@@ -1,1 +1,0 @@
-Program napisany przy użyciu Spring Boot i narzędzia do budowania projektów Maven. Pozwala wysyłać żądania http wyświetlając zdjęcie chomika i tekst.
